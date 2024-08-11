@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: news-sitemap.xml
+Sitemap: video-sitemap.xml
+Sitemap: sitemap.xml
+Sitemap: sitemap.rss

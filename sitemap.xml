@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on August 11, 2024 at 6:42 pm by All in One SEO Pro v4.6.8.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="default-sitemap.xsl?sitemap=root"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc><![CDATA[page-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-06-17T02:11:14+00:00]]></lastmod>
+	</sitemap>
+	<sitemap>
+		<loc><![CDATA[tdb_templates-sitemap.xml]]></loc>
+		<lastmod><![CDATA[2024-06-17T02:11:14+00:00]]></lastmod>
+	</sitemap>
+</sitemapindex>
